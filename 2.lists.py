@@ -2,6 +2,8 @@
 
 # 1. Write a program that sum of all elements:
 one = [613, 955, 291, 497, 562, 483, 165, 210, 864, 789]
+listsum = sum(one)
+print(listsum)
 
 # 2.  Write a program that find the largest element:
 two = [386, 850, 274, 316, 526, 937, 998, 249, 269, 922]
